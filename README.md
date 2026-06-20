@@ -20,14 +20,12 @@
 
 ## 🛠 Tech Stack
 
-### Frontend                                                ### Backend
-
-HTML • CSS • JavaScript • Bootstrap • Tailwind              PHP • Laravel • MySQL
-
-### Programming                                             ### Tools
-
-Python • Java • C                                           Git • GitHub • VS Code • XAMPP
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Laravel
+- MySQL
+- Python
 
 ---
-
-## 🔥 Featured Projects
