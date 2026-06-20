@@ -20,27 +20,14 @@
 
 ## 🛠 Tech Stack
 
-### Frontend
+### Frontend                                                ### Backend
 
-HTML • CSS • JavaScript • Bootstrap • Tailwind
+HTML • CSS • JavaScript • Bootstrap • Tailwind              PHP • Laravel • MySQL
 
-### Backend
+### Programming                                             ### Tools
 
-PHP • Laravel • MySQL
-
-### Programming
-
-Python • Java • C
-
-### Tools
-
-Git • GitHub • VS Code • XAMPP
+Python • Java • C                                           Git • GitHub • VS Code • XAMPP
 
 ---
 
 ## 🔥 Featured Projects
-
-
-
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash098p&layout=compact)
