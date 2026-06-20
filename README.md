@@ -40,32 +40,7 @@ Git • GitHub • VS Code • XAMPP
 
 ## 🔥 Featured Projects
 
-### 🎓 Academix AI Online Examination System
 
-Laravel-based AI-powered online examination platform.
 
-### 🖼 Smart Image Crafter
-
-Advanced browser-based image editing and PDF creation tool.
-
-### 🐍 SERPENT Snake Game
-
-Modern Snake game with powerups, animations, and achievements.
-
-### 💬 Kotlin Chat App
-
-Real-time chat application using Firebase.
-
----
-
-## 📫 Connect With Me
-
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
-🌐 GitHub: https://github.com/akash098p
-
-![Stats](https://github-readme-stats.vercel.app/api?username=akash098p&show_icons=true)
-
-![Streak](https://streak-stats.demolab.com?user=akash098p)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash098p&layout=compact)
