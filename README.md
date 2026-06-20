@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Akash Pramanik
 
-<!--
-**akash098p/akash098p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Student in Computer Science & Technology
 
-Here are some ideas to get you started:
+💻 Full Stack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning Laravel, PHP, JavaScript, Python
+
+🚀 Building AI-Powered Online Examination Systems
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Laravel
+- MySQL
+- Python
+
+## Projects
+
+### Academix Online Examination System
+AI-powered online examination platform built with Laravel.
+
+### Smart Image Crafter
+Image editing and PDF generation tool.
+
+### Snake+
+Advanced Snake Game using Python & Pygame
+
+## Contact
+
+📧 your-email@example.com
