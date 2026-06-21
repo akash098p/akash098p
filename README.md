@@ -29,3 +29,20 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=yellow">
   </a>
 </p>
+🌐 Connect With Me
+
+<p align="center"><a href="mailto:akashpramanik422@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a><a href="https://github.com/akash098p">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a><a href="https://instagram.com/akash.098p">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a><a href="https://x.com/Akash098p">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a></p>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akash098p&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
