@@ -30,66 +30,48 @@
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
 </a></p>
 
-<p align="center">
-<a href="mailto:akashpramanik422@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55" />
-</a>
+---
+🌐 Connect With Me
 
-<a href="https://instagram.com/akash.098p">
-<img src="https://skillicons.dev/icons?i=instagram" height="55" />
-</a>
-
-<a href="https://x.com/Akash098p">
-<img src="https://cdn.simpleicons.org/x/ffffff" height="55" />
-</a>
-
-<a href="https://github.com/akash098p">
-<img src="https://skillicons.dev/icons?i=github" height="55" />
-</a>
+<p align="center"><a href="mailto:akashpramanik422@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="65" />
+</a><a href="https://instagram.com/akash.098p">
+  <img src="https://skillicons.dev/icons?i=instagram" height="65" />
+</a><a href="https://x.com/Akash098p">
+  <img src="https://cdn.simpleicons.org/x/ffffff" height="65" />
+</a></p><p align="center">
+  <b>Gmail</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Instagram</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>X</b>
 </p>
 ---
+🌐 Connect With Me
 
-<p align="center">
-
+<table align="center">
+<tr>
+<td align="center">
 <a href="mailto:akashpramanik422@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=gmail" height="65"/>
 </a>
-
+<br>
+<b>Gmail</b>
+</td><td width="40"></td><td align="center">
 <a href="https://instagram.com/akash.098p">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=instagram" height="65"/>
 </a>
-
+<br>
+<b>Instagram</b>
+</td><td width="40"></td><td align="center">
 <a href="https://x.com/Akash098p">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://cdn.simpleicons.org/x/ffffff" height="65"/>
 </a>
-
-<a href="https://github.com/akash098p">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
----
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-<a href="mailto:akashpramanik422@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://instagram.com/akash.098p">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="https://github.com/akash098p">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://x.com/Akash098p">
-<img width="48" src="https://cdn.simpleicons.org/x/ffffff" />
-</a>
-</p>
+<br>
+<b>X</b>
+</td>
+</tr>
+</table>
 ---
 
 <p align="center">
