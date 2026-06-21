@@ -9,27 +9,16 @@
 ---
 🛠️ Tech Stack
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,git,github,vscode" /></p>
-
-
-🚀 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,git,github,vscode&perline=5" />
 </p>
----
 
-📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash098p&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
-
-
-
 
 🌐 Connect With Me
 
