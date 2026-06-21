@@ -19,18 +19,6 @@
 </p>
 
 ---
-
-🌐 Connect With Me
-
-<p align="center"><a href="mailto:akashpramanik422@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a><a href="https://instagram.com/akash.098p">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a><a href="https://x.com/Akash098p">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-</a></p>
-
----
 🌐 Connect With Me
 
 <p align="center"><a href="mailto:akashpramanik422@gmail.com">
@@ -47,35 +35,9 @@
 <img src="https://cdn.simpleicons.org/x/ffffff" height="28"/>
 </a>
 &nbsp;<b>X</b></p>
----
-🌐 Connect With Me
-
-<p align="center"><a href="mailto:akashpramanik422@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a><a href="https://instagram.com/akash.098p">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-</a><a href="https://x.com/Akash098p">
-<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white">
-</a></p>
----
-🌐 Connect With Me
-
-<p align="center"><a href="mailto:akashpramanik422@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" align="center"/>
-  &nbsp;<b>Gmail</b>
-</a>  │  
-
-<a href="https://instagram.com/akash.098p" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" align="center"/>
-  &nbsp;<b>Instagram</b>
-</a>  │  
-
-<a href="https://x.com/Akash098p" target="_blank">
-  <img src="https://cdn.simpleicons.org/x/white" height="32" align="center"/>
-  &nbsp;<b>X</b>
-</a></p>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akash098p&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
