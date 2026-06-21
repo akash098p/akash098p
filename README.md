@@ -10,7 +10,7 @@
 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,nodejs,github,vscode" />
 </p>
 
 
