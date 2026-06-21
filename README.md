@@ -32,3 +32,6 @@
 - Python
 
 ---
+💻 Tech Stack
+
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,git,github,vscode" /></p>
