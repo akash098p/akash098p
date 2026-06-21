@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akash Pramanik
+# Hi 👋, I'm Akash
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Laravel+Developer;Python+Programmer;Computer+Science+Student" />
