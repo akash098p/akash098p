@@ -26,6 +26,6 @@
   <a href="mailto:akashpramanik422@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>  <a href="https://github.com/akash098p">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&badgeColor=yellow&logo=github&logoColor=yellow">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=yellow">
   </a>
 </p>
