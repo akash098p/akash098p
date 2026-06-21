@@ -34,44 +34,19 @@
 🌐 Connect With Me
 
 <p align="center"><a href="mailto:akashpramanik422@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="65" />
-</a><a href="https://instagram.com/akash.098p">
-  <img src="https://skillicons.dev/icons?i=instagram" height="65" />
-</a><a href="https://x.com/Akash098p">
-  <img src="https://cdn.simpleicons.org/x/ffffff" height="65" />
-</a></p><p align="center">
-  <b>Gmail</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Instagram</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>X</b>
-</p>
----
-🌐 Connect With Me
+<img src="https://skillicons.dev/icons?i=gmail" height="32"/>
+</a>
+&nbsp;<b>Gmail</b>  │  
 
-<table align="center">
-<tr>
-<td align="center">
-<a href="mailto:akashpramanik422@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="65"/>
-</a>
-<br>
-<b>Gmail</b>
-</td><td width="40"></td><td align="center">
 <a href="https://instagram.com/akash.098p">
-<img src="https://skillicons.dev/icons?i=instagram" height="65"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="32"/>
 </a>
-<br>
-<b>Instagram</b>
-</td><td width="40"></td><td align="center">
+&nbsp;<b>Instagram</b>  │  
+
 <a href="https://x.com/Akash098p">
-<img src="https://cdn.simpleicons.org/x/ffffff" height="65"/>
+<img src="https://cdn.simpleicons.org/x/ffffff" height="28"/>
 </a>
-<br>
-<b>X</b>
-</td>
-</tr>
-</table>
+&nbsp;<b>X</b></p>
 ---
 
 <p align="center">
