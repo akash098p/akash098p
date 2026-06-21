@@ -6,31 +6,6 @@
   🚀 Building AI-Powered Web Applications
 </p>
 
-
-## 🚀 About Me
-
-🎓 Computer Science & Technology Student
-
-💻 Full Stack Web Developer
-
-🌱 Currently Learning Laravel, AI Integration & Cloud Deployment
-
-🚀 Building Modern Web Applications
-
-📍 West Bengal, India
-
----
-
-## 🛠 Tech Stack
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Laravel
-- MySQL
-- Python
-
 ---
 💻 Tech Stack
 
@@ -40,41 +15,21 @@
 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,java,c,git,github,vscode&perline=6" />
-</p>---
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,git,github,vscode&perline=6" />
+</p>
+---
 
 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akash098p&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash098p&layout=compact&theme=tokyonight&hide_border=true" />
-</p>---
-
-🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akash098p&theme=tokyonight&hide_border=true" />
-</p>---
-
-🏆 Featured Projects
-
-🎓 Academix AI Online Examination System
-
-Laravel-based AI-powered online examination platform with analytics and anti-cheat features.
-
-🖼 Smart Image Crafter
-
-Browser-based image editor and PDF creator.
-
-🐍 SERPENT Snake Game
-
-Advanced Snake game with power-ups, achievements, and animations.
-
-📥 Social Media Video Downloader
-
-Multi-platform media downloader built with Python.
+</p>
 
 ---
+
+
+
+
 
 🌐 Connect With Me
 
