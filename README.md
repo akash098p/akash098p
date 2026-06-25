@@ -24,17 +24,17 @@
 <p align="center"><a href="mailto:akashpramanik422@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="32"/>
 </a>
-│  
+&nbsp;<b>Gmail</b>  │  
 
 <a href="https://instagram.com/akash.098p">
 <img src="https://skillicons.dev/icons?i=instagram" height="32"/>
 </a>
-&nbsp;<b>@akash.098p</b>  │  
+&nbsp;<b>Instagram</b>  │  
 
 <a href="https://x.com/Akash098p">
 <img src="https://cdn.simpleicons.org/x/ffffff" height="28"/>
 </a>
-&nbsp;<b>Akash098p</b></p>
+&nbsp;<b>X</b></p>
 
 ---
 
