@@ -24,7 +24,7 @@
 <p align="center"><a href="mailto:akashpramanik422@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="32"/>
 </a>
-&nbsp;<b>Gmail</b>  │  
+  │  
 
 <a href="https://instagram.com/akash.098p">
 <img src="https://skillicons.dev/icons?i=instagram" height="32"/>
