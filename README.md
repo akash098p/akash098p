@@ -1,85 +1,31 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Laravel+Developer;Python+Programmer;Computer+Science+Student;Open+Source+Enthusiast;Building+AI-Powered+Applications" />
-</p>
-
-<p align="center">
-🎓 Computer Science & Technology Student <br>
-💻 Full Stack Web Developer <br>
-🚀 Passionate about AI, Web Development & Open Source
+<h1 align="center">Hi 👋, I'm Akash</h1><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Laravel+Developer;Python+Programmer;Computer+Science+Student;Open+Source+Enthusiast" />
+</p><p align="center">
+  🎓 Computer Science & Technology Student <br>
+  💻 Full Stack Web Developer <br>
+  🚀 Building AI-Powered Web Applications
 </p>
 
 ---
 
-# 🚀 About Me
-
-- 🌱 Currently learning **AI, Machine Learning & Data Science**
-- 💻 Building modern **Laravel & Python Applications**
-- 🤖 Exploring **Artificial Intelligence & Automation**
-- 🔥 Love solving real-world problems using technology
-- 📫 Reach me at **akashpramanik422@gmail.com**
-
----
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,nodejs,docker,linux,postgres,postman,github,git,vscode&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,nodejs,docker,linux,postgres,postman,github,git,vscode" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akash098p&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akash098p&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=akash098p&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akash098p&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash098p&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akash098p&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akash098p&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -89,12 +35,12 @@
 <p align="center"><a href="mailto:akashpramanik422@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="32"/>
 </a>
-&nbsp;<b>Gmail</b>  │  
+&nbsp;<b>Gmail</b>  │  
 
 <a href="https://instagram.com/akash.098p">
 <img src="https://skillicons.dev/icons?i=instagram" height="32"/>
 </a>
-&nbsp;<b>Instagram</b>  │  
+&nbsp;<b>Instagram</b>  │  
 
 <a href="https://x.com/Akash098p">
 <img src="https://cdn.simpleicons.org/x/ffffff" height="28"/>
@@ -104,13 +50,5 @@
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=akash098p&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
+  <img src="https://komarev.com/ghpvc/?username=akash098p&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
