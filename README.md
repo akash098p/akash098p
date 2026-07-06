@@ -26,6 +26,9 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akash098p&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akash098p&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
