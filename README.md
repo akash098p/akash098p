@@ -29,7 +29,7 @@
 
 ---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center"><a href="mailto:akashpramanik422@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="32"/>
