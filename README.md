@@ -26,6 +26,27 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akash098p&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akash098p&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akash098p&layout=compact&langs_count=20&hide=html,css&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akash098p&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akash098p&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akash098p&theme=tokyonight&hide_border=true"/>
 </p>
