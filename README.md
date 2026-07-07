@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akash098p&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akash098p&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-six.vercel.app/api/top-langs/?username=akash098p&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
