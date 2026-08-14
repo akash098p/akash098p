@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,nodejs,docker,linux,postgres,postman,github,git,typescript,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,nodejs,typescript,docker,linux,postgres,postman,github,git,vscode,bash,androidstudio&perline=9" />
 </p>
 
 <p align="center">
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Motoko-29ABE2?style=for-the-badge&logo=internetcomputer&logoColor=white" />
 </p>
 
 <p align="center">
