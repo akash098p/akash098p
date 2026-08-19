@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,nodejs,typescript,docker,linux,postgres,postman,github,git,vscode,bash,androidstudio&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,nodejs,typescript,docker,linux,postgres,postman,github,git,vscode,bash,androidstudio,kotlin,java&perline=10" />
 </p>
 
 <p align="center">
