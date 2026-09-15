@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,tailwind,php,laravel,nodejs,mysql,postgres,python,docker,linux,git,github,bash,vscode,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,tailwind,php,laravel,nodejs,mysql,postgres,python,docker,linux,git,github,bash,vscode,postman,androidstudio,kotlin,java&perline=12" />
 </p>
 
 <p align="center">
@@ -22,9 +22,6 @@
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
   <img src="https://img.shields.io/badge/CustomTkinter-1F6FEB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyInstaller-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
