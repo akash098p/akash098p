@@ -11,7 +11,17 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,nodejs,typescript,docker,linux,postgres,postman,github,git,vscode,bash,androidstudio,kotlin,java&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,tailwind,php,laravel,nodejs,mysql,postgres,python,docker,linux,git,github,bash,vscode,postman&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CustomTkinter-1F6FEB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyInstaller-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <p align="center">
