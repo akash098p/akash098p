@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=akash098p&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=akash098p&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true" height="170" alt="GitHub profile statistics" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akash098p&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="170" />
 
 </p>
